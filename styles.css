@@ -84,3 +84,9 @@ a:link {
 a:visited {
     color: #b34700;
 }
+
+@media screen and (max-width: 500px) {
+  html {
+  	font-size: 75%;
+  }
+}
